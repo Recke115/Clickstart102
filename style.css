@@ -86,3 +86,19 @@ section.help div {
 section.help div:last-child {
     padding: 0 0 0 3rem;
 }
+
+section.helping {
+    display: flex;
+
+
+
+}
+section.helping img {
+    width: 100%;
+}
+section.helping div {
+    flex-basis: 50%;
+}
+section.helping div:last-child {
+    padding: 0 0 0 3rem;
+}
